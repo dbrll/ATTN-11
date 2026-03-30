@@ -44,7 +44,7 @@ LR.OUT  = 6.
         .INCLUDE "nn11/MATOP.MAC"
         .INCLUDE "nn11/ACTFN.MAC"
         .INCLUDE "nn11/LAYER.MAC"
-        .INCLUDE "tests/TUTIL.MAC"
+        .INCLUDE "IO.MAC"
 
 ; --- Include model modules ---
         .INCLUDE "model/FORWRD.MAC"
